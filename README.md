@@ -1,7 +1,11 @@
 # tomoyan's profile 👋
 
-### 🛠️ Technical Generalist & Security Enthusiast
-I’m a developer and security researcher with a focus on automation, clean code, and the intersection of technology and design. I aim for precision and efficiency.
+### 🛠️ Software Engineer & Retail Enthusiast
+"Where high-fidelity aesthetics meet low-level logic."
+
+I am a Software Engineer driven by the challenge of bridging the gap between digital systems and physical experiences. My work focuses on building robust, automated architectures that power the next generation of Digital Commerce and Product Visualization.
+
+Retail Systems Engineering: I architect solutions for complex retail environments, focusing on the precision of product placement, spatial displays, and high-volume asset management.
 
 ---
 
@@ -15,9 +19,14 @@ I’m a developer and security researcher with a focus on automation, clean code
 * **Tools:** CLI, Image Processing, Smart Contract Auditing Frameworks
 
 ### 📈 Current Interests
-- [ ] Mastering advanced blockchain vulnerability patterns.
 - [ ] Optimizing automated image pipelines for retail assets.
 - [ ] Contributing to open-source security tools.
+
+### 🎨 Creative Sandbox
+Beyond the terminal, I explore the intersection of art and sound:
+* **Visual Curation:** Experimenting with retail aesthetics, industrial design for EC.
+* **Sonic Interests:** Developing lyrics and concepts for AI music — blending nostalgic energy with modern production.
+* **Product Visualization:** Crafting digital retail environments and goods for various stores.
 
 ---
 
